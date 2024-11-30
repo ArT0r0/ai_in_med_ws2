@@ -1,4 +1,5 @@
-# Conference Workshop
+# AI in Medicine - Conference Workshop 2
+## Image Processing with FastAI
 This is the repository to use and follow along our second conference workshop on Image Processing with the FastAI library.
 
 We will first be looking at the FastAI library, and using its utilities to:
