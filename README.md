@@ -10,5 +10,5 @@ We will first be looking at the FastAI library, and using its utilities to:
   - Learn how training data can affect the model's generalisability
 
 I hope you enjoy this workshop and Imperial College Medics' Coding Society Conference on AI in Medicine.
-Please email me if you have any queries on at1120@ic.ac.uk
+Please [email me](mailto:at1120@ic.ac.uk) if you have any queries.
 
